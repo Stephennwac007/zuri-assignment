@@ -1,0 +1,11 @@
+{
+  "name": "zurinode",
+  "version": "1.0.0",
+  "description": "training",
+  "main": "fszuri.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "stephen",
+  "license": "ISC"
+}
